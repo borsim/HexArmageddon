@@ -1,5 +1,6 @@
 # HexArmageddon
 Made in 48 hours for Ludum Dare 39's theme "Running out of power"
+
 Made by Halflemon Studios:
 - Álmos Zarándy
 - Balázs Csanálosi
